@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "age": 0,
+    "city": "",
+
+    "level":0,
+    "items":0,
+    "hp|at|mp|ex":"10|0-5|0|0",
+    "s|l|i":"1|1|1",
+    "last_save":"",
+    "inventori":"canned food|camping knife"
+}
